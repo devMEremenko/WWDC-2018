@@ -1,0 +1,37 @@
+//
+//  UIFont+Additions.swift
+//  WWDC
+//
+//  Created by Maxim Eremenko on 3/31/18.
+//  Copyright © 2018 Maxim Eremenko. All rights reserved.
+//
+
+// Guide
+
+"guide.message.press.play.button" = "Press the Play Button! 🕹";
+"guide.message.checkout.algorithms" = "Use the playback view to play backward and forward";
+"guide.message.checkout.profile" = "Check out my profile! 👻";
+
+"guide.profile.button" = "About Me";
+
+// Algorithms
+
+"algorithm.name.insertion" = "Insertion Sort";
+"algorithm.name.quick" = "Quick Sort";
+"algorithm.name.bubble" = "Bubble Sort";
+
+// Welcome
+
+"welcome.action.title" = "Start Sorting";
+"welcome.title.label" = "Hello WDDC Team,";
+"welcome.detail.label" = "The goal of this app is to visualize key sorting algorithms:\nSelection, Quick and Bubble sorts.\n\nSeeing algorithms in action helps to understand how they work and adds more fun to the process of mastering of the Computer Science.\n\n\nHOW IT WORKS\n\nYou will see three lines with digits on the next screen.\nTo start sorting, click on the play button under it.\n\nClick on the appropriate buttons to play backward or pause the sorting. The message will be shown when the sorting is done.\n\nYou can repeat the sorting as many times as you wish.";
+
+// Profile
+
+"profile.username.label.title" = "";
+
+"profile.info.label.title" = "My name is Maxim Eremenko,\n\nI am the fourth year student in the Computer Science.\nApart from that, I am an iOS developer.\nMy key tech stack includes Swift and Objective-C.\n\nI created my first iOS app School assistant when I was 17. I am interested in open source projects and share my Swift libraries on GitHub. My goal is to advance my knowledge in computer science, data structures, and algorithms.";
+
+"profile.middle.info.label.title" = "About this App\n\nI have been thinking of creating an app that helps the beginners master the basics of the Computer science. So I decided to create a proof of concept and use it as a base for the full-fledged app in the future.\n\nThis app animates how three the most widespread sorting algorithms work:\nSelection, Quick and Bubble sorts.\n\nTo be honest, the idea came to me 2 days before the end of submissions so that is why I implemented only 3 sorting algorithm animations.\n\nI hope you will enjoy the idea.\n\ndevMEremenko@gmail.com\ngithub.com/devMEremenko\nlinkedin.com/in/maxim-eremenko/";
+
+"profile.again.button.title" = "Play Again";
