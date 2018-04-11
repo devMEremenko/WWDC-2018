@@ -13,12 +13,12 @@ In addition, a user can pause, move to the previous or next step.
 ## **Tech Overview**</br>
 - This app was created using `Swift Playground`. `Sketch` was used for design and exporting to `Zeplin`. All pictures were found on free stock photos websites.  
 - To display every step in the UI I created an operation for each movement of elements in the array.
-- I used my open source libraries:
-        [Listable](https://github.com/devMEremenko/listable) was used to manage Collection and Table views. 
-        [EasyCalls](https://github.com/devMEremenko/EasyCalls) was used to dispatch an execution to and from the main queue.
-- Other open source libraries:
-        [SnapKit](https://github.com/SnapKit/SnapKit) was used to create AutoLayout for views in the code.
-        [Hero](https://github.com/lkzhao/Hero) allows creating transitions in a declarative way. 
+- I used my open source libraries:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Listable](https://github.com/devMEremenko/listable) was used to manage Collection and Table views. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [EasyCalls](https://github.com/devMEremenko/EasyCalls) was used to dispatch an execution to and from the main queue.</br>
+- Other open source libraries:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SnapKit](https://github.com/SnapKit/SnapKit) was used to create AutoLayout for views in the code.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Hero](https://github.com/lkzhao/Hero) allows creating transitions in a declarative way. </br>
 - Cells width was calculated for any picture size for their user-friendly displaying in the picture gallery of my profile screen.
 - `VIPER` was used as a preferred architecture for the sorting screen.
 - All views were created on my own. 
